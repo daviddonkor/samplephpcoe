@@ -1,5 +1,6 @@
 <?php
-namespace Humans\Helper;
+
+namespace Humans\Helpers;
 
 trait GoodHumanBehaviour{
     public function showRespect(){

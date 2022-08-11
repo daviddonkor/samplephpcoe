@@ -2,8 +2,8 @@
 
 namespace Humans\Staff\Faculty;
 
-use Humans\Helper\EmployeeInterface;
-use Humans\Helper\GoodHumanBehaviour;
+use Humans\Helpers\EmployeeInterface;
+use Humans\Helpers\GoodHumanBehaviour;
 
 class Faculty implements EmployeeInterface{
 

@@ -2,8 +2,8 @@
 
 namespace Humans\Staff\Admin;
 
-use Humans\Helper\EmployeeInterface as EmployeeInterface;
-use Humans\Helper\GoodHumanBehaviour as GoodHumanBehaviour;
+use Humans\Helpers\EmployeeInterface as EmployeeInterface;
+use Humans\Helpers\GoodHumanBehaviour as GoodHumanBehaviour;
 
 class Administrator implements EmployeeInterface{
 
