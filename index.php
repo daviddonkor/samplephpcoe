@@ -2,7 +2,9 @@
 
 require_once __DIR__."\app\bootstrap.php";
 
-use Humans\Staff\Faculty\Faculty;
-
+use App\Humans\Staff\Faculty\Faculty;
+use App\Connections\PDOConnection\PDOConnector;
 $f = new Faculty();
 echo $f->lectures();
+
+$con = PDOConnector::getInstance();

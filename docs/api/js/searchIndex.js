@@ -1,259 +1,324 @@
 Search.appendIndex(
     [
                 {
-            "fqsen": "\\Humans\\Helpers\\EmployeeInterface",
+            "fqsen": "\\App\\Humans\\Helpers\\EmployeeInterface",
             "name": "EmployeeInterface",
             "summary": "",
-            "url": "classes/Humans-Helpers-EmployeeInterface.html"
+            "url": "classes/App-Humans-Helpers-EmployeeInterface.html"
         },                {
-            "fqsen": "\\Humans\\Helpers\\EmployeeInterface\u003A\u003AreportToWork\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Helpers\\EmployeeInterface\u003A\u003AreportToWork\u0028\u0029",
             "name": "reportToWork",
             "summary": "",
-            "url": "classes/Humans-Helpers-EmployeeInterface.html#method_reportToWork"
+            "url": "classes/App-Humans-Helpers-EmployeeInterface.html#method_reportToWork"
         },                {
-            "fqsen": "\\Humans\\Helpers\\EmployeeInterface\u003A\u003Awork\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Helpers\\EmployeeInterface\u003A\u003Awork\u0028\u0029",
             "name": "work",
             "summary": "",
-            "url": "classes/Humans-Helpers-EmployeeInterface.html#method_work"
+            "url": "classes/App-Humans-Helpers-EmployeeInterface.html#method_work"
         },                {
-            "fqsen": "\\Humans\\Helpers\\GoodHumanBehaviour",
+            "fqsen": "\\App\\Humans\\Helpers\\GoodHumanBehaviour",
             "name": "GoodHumanBehaviour",
             "summary": "Every\u0020staff\u0020must\u0020exhibit\u0020good\u0020human\u0020behaviour.",
-            "url": "classes/Humans-Helpers-GoodHumanBehaviour.html"
+            "url": "classes/App-Humans-Helpers-GoodHumanBehaviour.html"
         },                {
-            "fqsen": "\\Humans\\Helpers\\GoodHumanBehaviour\u003A\u003AshowRespect\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Helpers\\GoodHumanBehaviour\u003A\u003AshowRespect\u0028\u0029",
             "name": "showRespect",
             "summary": "Show\u0020others\u0020respect",
-            "url": "classes/Humans-Helpers-GoodHumanBehaviour.html#method_showRespect"
+            "url": "classes/App-Humans-Helpers-GoodHumanBehaviour.html#method_showRespect"
         },                {
-            "fqsen": "\\Humans\\Helpers\\GoodHumanBehaviour\u003A\u003AbeCurteous\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Helpers\\GoodHumanBehaviour\u003A\u003AbeCurteous\u0028\u0029",
             "name": "beCurteous",
             "summary": "Be\u0020curteous\u0020to\u0020people",
-            "url": "classes/Humans-Helpers-GoodHumanBehaviour.html#method_beCurteous"
+            "url": "classes/App-Humans-Helpers-GoodHumanBehaviour.html#method_beCurteous"
         },                {
-            "fqsen": "\\Humans\\Staff\\Admin\\Administrator",
+            "fqsen": "\\App\\Humans\\Staff\\Admin\\Administrator",
             "name": "Administrator",
             "summary": "",
-            "url": "classes/Humans-Staff-Admin-Administrator.html"
+            "url": "classes/App-Humans-Staff-Admin-Administrator.html"
         },                {
-            "fqsen": "\\Humans\\Staff\\Admin\\Administrator\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Staff\\Admin\\Administrator\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "",
-            "url": "classes/Humans-Staff-Admin-Administrator.html#method___construct"
+            "url": "classes/App-Humans-Staff-Admin-Administrator.html#method___construct"
         },                {
-            "fqsen": "\\Humans\\Staff\\Admin\\Administrator\u003A\u003AreportToWork\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Staff\\Admin\\Administrator\u003A\u003AreportToWork\u0028\u0029",
             "name": "reportToWork",
             "summary": "",
-            "url": "classes/Humans-Staff-Admin-Administrator.html#method_reportToWork"
+            "url": "classes/App-Humans-Staff-Admin-Administrator.html#method_reportToWork"
         },                {
-            "fqsen": "\\Humans\\Staff\\Admin\\Administrator\u003A\u003Awork\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Staff\\Admin\\Administrator\u003A\u003Awork\u0028\u0029",
             "name": "work",
             "summary": "",
-            "url": "classes/Humans-Staff-Admin-Administrator.html#method_work"
+            "url": "classes/App-Humans-Staff-Admin-Administrator.html#method_work"
         },                {
-            "fqsen": "\\Humans\\Staff\\Admin\\Administrator\u003A\u003Aadministrates\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Staff\\Admin\\Administrator\u003A\u003Aadministrates\u0028\u0029",
             "name": "administrates",
             "summary": "",
-            "url": "classes/Humans-Staff-Admin-Administrator.html#method_administrates"
+            "url": "classes/App-Humans-Staff-Admin-Administrator.html#method_administrates"
         },                {
-            "fqsen": "\\Humans\\Staff\\Admin\\Administrator\u003A\u003A\u0024value",
+            "fqsen": "\\App\\Humans\\Staff\\Admin\\Administrator\u003A\u003A\u0024value",
             "name": "value",
             "summary": "",
-            "url": "classes/Humans-Staff-Admin-Administrator.html#property_value"
+            "url": "classes/App-Humans-Staff-Admin-Administrator.html#property_value"
         },                {
-            "fqsen": "\\Humans\\Staff\\Faculty\\Faculty",
+            "fqsen": "\\App\\Humans\\Staff\\Faculty\\Faculty",
             "name": "Faculty",
             "summary": "",
-            "url": "classes/Humans-Staff-Faculty-Faculty.html"
+            "url": "classes/App-Humans-Staff-Faculty-Faculty.html"
         },                {
-            "fqsen": "\\Humans\\Staff\\Faculty\\Faculty\u003A\u003AreportToWork\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Staff\\Faculty\\Faculty\u003A\u003AreportToWork\u0028\u0029",
             "name": "reportToWork",
             "summary": "",
-            "url": "classes/Humans-Staff-Faculty-Faculty.html#method_reportToWork"
+            "url": "classes/App-Humans-Staff-Faculty-Faculty.html#method_reportToWork"
         },                {
-            "fqsen": "\\Humans\\Staff\\Faculty\\Faculty\u003A\u003Awork\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Staff\\Faculty\\Faculty\u003A\u003Awork\u0028\u0029",
             "name": "work",
             "summary": "",
-            "url": "classes/Humans-Staff-Faculty-Faculty.html#method_work"
+            "url": "classes/App-Humans-Staff-Faculty-Faculty.html#method_work"
         },                {
-            "fqsen": "\\Humans\\Staff\\Faculty\\Faculty\u003A\u003Alectures\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Staff\\Faculty\\Faculty\u003A\u003Alectures\u0028\u0029",
             "name": "lectures",
             "summary": "",
-            "url": "classes/Humans-Staff-Faculty-Faculty.html#method_lectures"
+            "url": "classes/App-Humans-Staff-Faculty-Faculty.html#method_lectures"
         },                {
-            "fqsen": "\\Humans\\Student\\Helpers\\StudentInterface",
+            "fqsen": "\\App\\Humans\\Student\\Helpers\\StudentInterface",
             "name": "StudentInterface",
             "summary": "",
-            "url": "classes/Humans-Student-Helpers-StudentInterface.html"
+            "url": "classes/App-Humans-Student-Helpers-StudentInterface.html"
         },                {
-            "fqsen": "\\Humans\\Student\\Helpers\\StudentInterface\u003A\u003AreadCourse\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Student\\Helpers\\StudentInterface\u003A\u003AreadCourse\u0028\u0029",
             "name": "readCourse",
             "summary": "",
-            "url": "classes/Humans-Student-Helpers-StudentInterface.html#method_readCourse"
+            "url": "classes/App-Humans-Student-Helpers-StudentInterface.html#method_readCourse"
         },                {
-            "fqsen": "\\Humans\\Student\\Helpers\\StudentInterface\u003A\u003AattendLectures\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Student\\Helpers\\StudentInterface\u003A\u003AattendLectures\u0028\u0029",
             "name": "attendLectures",
             "summary": "",
-            "url": "classes/Humans-Student-Helpers-StudentInterface.html#method_attendLectures"
+            "url": "classes/App-Humans-Student-Helpers-StudentInterface.html#method_attendLectures"
         },                {
-            "fqsen": "\\Humans\\Student\\Helpers\\StudentInterface\u003A\u003AhasRegistered\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Student\\Helpers\\StudentInterface\u003A\u003AhasRegistered\u0028\u0029",
             "name": "hasRegistered",
             "summary": "",
-            "url": "classes/Humans-Student-Helpers-StudentInterface.html#method_hasRegistered"
+            "url": "classes/App-Humans-Student-Helpers-StudentInterface.html#method_hasRegistered"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student",
             "name": "Student",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html"
+            "url": "classes/App-Humans-Student-PartTime-Student.html"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html#method___construct"
+            "url": "classes/App-Humans-Student-PartTime-Student.html#method___construct"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student\u003A\u003AreadCourse\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student\u003A\u003AreadCourse\u0028\u0029",
             "name": "readCourse",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html#method_readCourse"
+            "url": "classes/App-Humans-Student-PartTime-Student.html#method_readCourse"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student\u003A\u003AhasRegistered\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student\u003A\u003AhasRegistered\u0028\u0029",
             "name": "hasRegistered",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html#method_hasRegistered"
+            "url": "classes/App-Humans-Student-PartTime-Student.html#method_hasRegistered"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student\u003A\u003AattendLectures\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student\u003A\u003AattendLectures\u0028\u0029",
             "name": "attendLectures",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html#method_attendLectures"
+            "url": "classes/App-Humans-Student-PartTime-Student.html#method_attendLectures"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student\u003A\u003AregisterCourse\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student\u003A\u003AregisterCourse\u0028\u0029",
             "name": "registerCourse",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html#method_registerCourse"
+            "url": "classes/App-Humans-Student-PartTime-Student.html#method_registerCourse"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student\u003A\u003AgetRegisteredcourses\u0028\u0029",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student\u003A\u003AgetRegisteredcourses\u0028\u0029",
             "name": "getRegisteredcourses",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html#method_getRegisteredcourses"
+            "url": "classes/App-Humans-Student-PartTime-Student.html#method_getRegisteredcourses"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student\u003A\u003A\u0024indexnumber",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student\u003A\u003A\u0024indexnumber",
             "name": "indexnumber",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html#property_indexnumber"
+            "url": "classes/App-Humans-Student-PartTime-Student.html#property_indexnumber"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student\u003A\u003A\u0024name",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student\u003A\u003A\u0024name",
             "name": "name",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html#property_name"
+            "url": "classes/App-Humans-Student-PartTime-Student.html#property_name"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime\\Student\u003A\u003A\u0024registeredcourses",
+            "fqsen": "\\App\\Humans\\Student\\PartTime\\Student\u003A\u003A\u0024registeredcourses",
             "name": "registeredcourses",
             "summary": "",
-            "url": "classes/Humans-Student-PartTime-Student.html#property_registeredcourses"
+            "url": "classes/App-Humans-Student-PartTime-Student.html#property_registeredcourses"
         },                {
-            "fqsen": "\\Tests\\Unit\\AdministratorTest",
+            "fqsen": "\\App\\Tests\\Unit\\AdministratorTest",
             "name": "AdministratorTest",
             "summary": "",
-            "url": "classes/Tests-Unit-AdministratorTest.html"
+            "url": "classes/App-Tests-Unit-AdministratorTest.html"
         },                {
-            "fqsen": "\\Tests\\Unit\\AdministratorTest\u003A\u003AsetUp\u0028\u0029",
+            "fqsen": "\\App\\Tests\\Unit\\AdministratorTest\u003A\u003AsetUp\u0028\u0029",
             "name": "setUp",
             "summary": "",
-            "url": "classes/Tests-Unit-AdministratorTest.html#method_setUp"
+            "url": "classes/App-Tests-Unit-AdministratorTest.html#method_setUp"
         },                {
-            "fqsen": "\\Tests\\Unit\\AdministratorTest\u003A\u003Atest_administrator_administer_function\u0028\u0029",
+            "fqsen": "\\App\\Tests\\Unit\\AdministratorTest\u003A\u003Atest_administrator_administer_function\u0028\u0029",
             "name": "test_administrator_administer_function",
             "summary": "",
-            "url": "classes/Tests-Unit-AdministratorTest.html#method_test_administrator_administer_function"
+            "url": "classes/App-Tests-Unit-AdministratorTest.html#method_test_administrator_administer_function"
         },                {
-            "fqsen": "\\Tests\\Unit\\AdministratorTest\u003A\u003A\u0024admin",
+            "fqsen": "\\App\\Tests\\Unit\\AdministratorTest\u003A\u003A\u0024admin",
             "name": "admin",
             "summary": "",
-            "url": "classes/Tests-Unit-AdministratorTest.html#property_admin"
+            "url": "classes/App-Tests-Unit-AdministratorTest.html#property_admin"
         },                {
-            "fqsen": "\\Tests\\Unit\\StudentTest",
+            "fqsen": "\\App\\Tests\\Unit\\StudentTest",
             "name": "StudentTest",
             "summary": "This\u0020is\u0020a\u0020test\u0020for\u0020the\u0020Student\u0020Class.",
-            "url": "classes/Tests-Unit-StudentTest.html"
+            "url": "classes/App-Tests-Unit-StudentTest.html"
         },                {
-            "fqsen": "\\Tests\\Unit\\StudentTest\u003A\u003AsetUp\u0028\u0029",
+            "fqsen": "\\App\\Tests\\Unit\\StudentTest\u003A\u003AsetUp\u0028\u0029",
             "name": "setUp",
             "summary": "This\u0020is\u0020the\u0020setup\u0020function\u0020which\u0020instantiates\u0020and\u0020initializes\u0020the\u0020student\u0020class.",
-            "url": "classes/Tests-Unit-StudentTest.html#method_setUp"
+            "url": "classes/App-Tests-Unit-StudentTest.html#method_setUp"
         },                {
-            "fqsen": "\\Tests\\Unit\\StudentTest\u003A\u003Atest_hasRegistered\u0028\u0029",
+            "fqsen": "\\App\\Tests\\Unit\\StudentTest\u003A\u003Atest_hasRegistered\u0028\u0029",
             "name": "test_hasRegistered",
             "summary": "This\u0020tests\u0020the\u0020hasRegistered\u0020function\u0020in\u0020the\u0020student\u0020class.",
-            "url": "classes/Tests-Unit-StudentTest.html#method_test_hasRegistered"
+            "url": "classes/App-Tests-Unit-StudentTest.html#method_test_hasRegistered"
         },                {
-            "fqsen": "\\Tests\\Unit\\StudentTest\u003A\u003Atest_hasRegisteredcourses\u0028\u0029",
+            "fqsen": "\\App\\Tests\\Unit\\StudentTest\u003A\u003Atest_hasRegisteredcourses\u0028\u0029",
             "name": "test_hasRegisteredcourses",
             "summary": "This\u0020is\u0020a\u0020test\u0020of\u0020the\u0020hasRegisteredCourses\u0020function.",
-            "url": "classes/Tests-Unit-StudentTest.html#method_test_hasRegisteredcourses"
+            "url": "classes/App-Tests-Unit-StudentTest.html#method_test_hasRegisteredcourses"
         },                {
-            "fqsen": "\\Tests\\Unit\\StudentTest\u003A\u003Atest_beCurteous\u0028\u0029",
+            "fqsen": "\\App\\Tests\\Unit\\StudentTest\u003A\u003Atest_beCurteous\u0028\u0029",
             "name": "test_beCurteous",
             "summary": "Test\u0020of\u0020the\u0020beCurteous\u0020trait\u0020used\u0020by\u0020the\u0020student\u0020class",
-            "url": "classes/Tests-Unit-StudentTest.html#method_test_beCurteous"
+            "url": "classes/App-Tests-Unit-StudentTest.html#method_test_beCurteous"
         },                {
-            "fqsen": "\\Tests\\Unit\\StudentTest\u003A\u003A\u0024student",
+            "fqsen": "\\App\\Tests\\Unit\\StudentTest\u003A\u003A\u0024student",
             "name": "student",
             "summary": "",
-            "url": "classes/Tests-Unit-StudentTest.html#property_student"
+            "url": "classes/App-Tests-Unit-StudentTest.html#property_student"
+        },                {
+            "fqsen": "\\App\\Connections\\Helpers\\ConnectionInterface",
+            "name": "ConnectionInterface",
+            "summary": "",
+            "url": "classes/App-Connections-Helpers-ConnectionInterface.html"
+        },                {
+            "fqsen": "\\App\\Connections\\Helpers\\ConnectionInterface\u003A\u003Aconnect\u0028\u0029",
+            "name": "connect",
+            "summary": "Establishes\u0020connection\u0020to\u0020the\u0020database",
+            "url": "classes/App-Connections-Helpers-ConnectionInterface.html#method_connect"
+        },                {
+            "fqsen": "\\App\\Connections\\Helpers\\ConnectionInterface\u003A\u003Adisconnect\u0028\u0029",
+            "name": "disconnect",
+            "summary": "Releases\u0020system\u0020resources\u0020from\u0020the\u0020database\u0020connection",
+            "url": "classes/App-Connections-Helpers-ConnectionInterface.html#method_disconnect"
+        },                {
+            "fqsen": "\\App\\Connections\\Helpers\\ConnectionInterface\u003A\u003AgetData\u0028\u0029",
+            "name": "getData",
+            "summary": "Read\u0020results\u0020from\u0020the\u0020database",
+            "url": "classes/App-Connections-Helpers-ConnectionInterface.html#method_getData"
+        },                {
+            "fqsen": "\\App\\Connections\\PDO\\Connector",
+            "name": "Connector",
+            "summary": "This\u0020is\u0020a\u0020connector\u0020class\u0020that\u0020connects\u0020to\u0020the\u0020MySQL\u0020Database\u0020using\nPDO.",
+            "url": "classes/App-Connections-PDO-Connector.html"
+        },                {
+            "fqsen": "\\App\\Connections\\PDO\\Connector\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "",
+            "url": "classes/App-Connections-PDO-Connector.html#method___construct"
+        },                {
+            "fqsen": "\\App\\Connections\\PDO\\Connector\u003A\u003Aconnect\u0028\u0029",
+            "name": "connect",
+            "summary": "Establishes\u0020connection\u0020to\u0020the\u0020database",
+            "url": "classes/App-Connections-PDO-Connector.html#method_connect"
+        },                {
+            "fqsen": "\\App\\Connections\\PDO\\Connector\u003A\u003Adisconnect\u0028\u0029",
+            "name": "disconnect",
+            "summary": "Releases\u0020system\u0020resources\u0020from\u0020the\u0020database\u0020connection",
+            "url": "classes/App-Connections-PDO-Connector.html#method_disconnect"
+        },                {
+            "fqsen": "\\App\\Connections\\PDO\\Connector\u003A\u003AgetData\u0028\u0029",
+            "name": "getData",
+            "summary": "Read\u0020results\u0020from\u0020the\u0020database",
+            "url": "classes/App-Connections-PDO-Connector.html#method_getData"
         },                {
             "fqsen": "\\",
             "name": "\\",
             "summary": "",
             "url": "namespaces/default.html"
         },                {
-            "fqsen": "\\Humans\\Helpers",
+            "fqsen": "\\App\\Connections\\Helpers",
             "name": "Helpers",
             "summary": "",
-            "url": "namespaces/humans-helpers.html"
+            "url": "namespaces/app-connections-helpers.html"
         },                {
-            "fqsen": "\\Humans",
+            "fqsen": "\\App\\Connections",
+            "name": "Connections",
+            "summary": "",
+            "url": "namespaces/app-connections.html"
+        },                {
+            "fqsen": "\\App",
+            "name": "App",
+            "summary": "",
+            "url": "namespaces/app.html"
+        },                {
+            "fqsen": "\\App\\Connections\\PDO",
+            "name": "PDO",
+            "summary": "",
+            "url": "namespaces/app-connections-pdo.html"
+        },                {
+            "fqsen": "\\App\\Humans\\Helpers",
+            "name": "Helpers",
+            "summary": "",
+            "url": "namespaces/app-humans-helpers.html"
+        },                {
+            "fqsen": "\\App\\Humans",
             "name": "Humans",
             "summary": "",
-            "url": "namespaces/humans.html"
+            "url": "namespaces/app-humans.html"
         },                {
-            "fqsen": "\\Humans\\Staff\\Admin",
+            "fqsen": "\\App\\Humans\\Staff\\Admin",
             "name": "Admin",
             "summary": "",
-            "url": "namespaces/humans-staff-admin.html"
+            "url": "namespaces/app-humans-staff-admin.html"
         },                {
-            "fqsen": "\\Humans\\Staff",
+            "fqsen": "\\App\\Humans\\Staff",
             "name": "Staff",
             "summary": "",
-            "url": "namespaces/humans-staff.html"
+            "url": "namespaces/app-humans-staff.html"
         },                {
-            "fqsen": "\\Humans\\Staff\\Faculty",
+            "fqsen": "\\App\\Humans\\Staff\\Faculty",
             "name": "Faculty",
             "summary": "",
-            "url": "namespaces/humans-staff-faculty.html"
+            "url": "namespaces/app-humans-staff-faculty.html"
         },                {
-            "fqsen": "\\Humans\\Student\\Helpers",
+            "fqsen": "\\App\\Humans\\Student\\Helpers",
             "name": "Helpers",
             "summary": "",
-            "url": "namespaces/humans-student-helpers.html"
+            "url": "namespaces/app-humans-student-helpers.html"
         },                {
-            "fqsen": "\\Humans\\Student",
+            "fqsen": "\\App\\Humans\\Student",
             "name": "Student",
             "summary": "",
-            "url": "namespaces/humans-student.html"
+            "url": "namespaces/app-humans-student.html"
         },                {
-            "fqsen": "\\Humans\\Student\\PartTime",
+            "fqsen": "\\App\\Humans\\Student\\PartTime",
             "name": "PartTime",
             "summary": "",
-            "url": "namespaces/humans-student-parttime.html"
+            "url": "namespaces/app-humans-student-parttime.html"
         },                {
-            "fqsen": "\\Tests\\Unit",
+            "fqsen": "\\App\\Tests\\Unit",
             "name": "Unit",
             "summary": "",
-            "url": "namespaces/tests-unit.html"
+            "url": "namespaces/app-tests-unit.html"
         },                {
-            "fqsen": "\\Tests",
+            "fqsen": "\\App\\Tests",
             "name": "Tests",
             "summary": "",
-            "url": "namespaces/tests.html"
+            "url": "namespaces/app-tests.html"
         }            ]
 );
