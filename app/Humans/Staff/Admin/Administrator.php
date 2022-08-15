@@ -20,7 +20,7 @@ class Administrator implements EmployeeInterface{
     }
 
     public function work(): void{
-
+        echo "Reporting time is good";
     }
 
     public function administrates():String
