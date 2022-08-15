@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Tests\Unit;
+namespace App\Tests\Unit;
 
 use PHPUnit\Framework\TestCase as TestCase;
-use Humans\Staff\Admin\Administrator as Administrator;
+use App\Humans\Staff\Admin\Administrator as Administrator;
 
 
 class AdministratorTest extends TestCase

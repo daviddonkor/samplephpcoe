@@ -1,9 +1,9 @@
 <?php
 
-namespace Humans\Staff\Admin;
+namespace App\Humans\Staff\Admin;
 
-use Humans\Helpers\EmployeeInterface as EmployeeInterface;
-use Humans\Helpers\GoodHumanBehaviour as GoodHumanBehaviour;
+use App\Humans\Helpers\EmployeeInterface as EmployeeInterface;
+use App\Humans\Helpers\GoodHumanBehaviour as GoodHumanBehaviour;
 
 class Administrator implements EmployeeInterface{
 

@@ -6,7 +6,7 @@
  * Each human is expected to respect and be curteous
  */
 
-namespace Humans\Helpers;
+namespace App\Humans\Helpers;
 
 /**
  * Every staff must exhibit good human behaviour.

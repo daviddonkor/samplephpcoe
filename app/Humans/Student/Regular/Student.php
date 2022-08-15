@@ -1,8 +1,9 @@
 <?php
 
-namespace Humans\Student\PartTime;
-use Humans\Student\Helpers\StudentInterface;
-use Human\Helper\GoodHumanBehaviour as HelperGoodHumanBehaviour;
+namespace App\Humans\Student\PartTime;
+
+use App\Humans\Student\Helpers\StudentInterface;
+use App\Humans\Helpers\GoodHumanBehaviour as HelperGoodHumanBehaviour;
 
 class Student extends StudentInterface{
 

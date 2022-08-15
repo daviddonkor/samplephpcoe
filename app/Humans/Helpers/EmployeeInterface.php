@@ -1,6 +1,6 @@
 <?php
 
-namespace Humans\Helpers;
+namespace App\Humans\Helpers;
 
 interface EmployeeInterface{
     public function reportToWork():void;

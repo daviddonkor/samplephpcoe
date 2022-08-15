@@ -1,9 +1,9 @@
 <?php
 
-namespace Humans\Staff\Faculty;
+namespace App\Humans\Staff\Faculty;
 
-use Humans\Helpers\EmployeeInterface;
-use Humans\Helpers\GoodHumanBehaviour;
+use App\Humans\Helpers\EmployeeInterface;
+use App\Humans\Helpers\GoodHumanBehaviour;
 
 class Faculty implements EmployeeInterface{
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace Tests\Unit;
+namespace App\Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
-use Humans\Student\PartTime\Student;
+use App\Humans\Student\PartTime\Student;
 
 /**
  * This is a test for the Student Class.

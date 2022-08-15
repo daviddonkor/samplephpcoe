@@ -1,6 +1,6 @@
 <?php
 
-namespace Humans\Student\Helpers;
+namespace App\Humans\Student\Helpers;
 
 interface StudentInterface {
     public function readCourse():void;
