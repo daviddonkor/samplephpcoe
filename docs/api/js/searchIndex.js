@@ -206,45 +206,80 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/App-Connections-Helpers-ConnectionInterface.html"
         },                {
-            "fqsen": "\\App\\Connections\\Helpers\\ConnectionInterface\u003A\u003Aconnect\u0028\u0029",
-            "name": "connect",
-            "summary": "Establishes\u0020connection\u0020to\u0020the\u0020database",
-            "url": "classes/App-Connections-Helpers-ConnectionInterface.html#method_connect"
-        },                {
             "fqsen": "\\App\\Connections\\Helpers\\ConnectionInterface\u003A\u003Adisconnect\u0028\u0029",
             "name": "disconnect",
             "summary": "Releases\u0020system\u0020resources\u0020from\u0020the\u0020database\u0020connection",
             "url": "classes/App-Connections-Helpers-ConnectionInterface.html#method_disconnect"
         },                {
-            "fqsen": "\\App\\Connections\\Helpers\\ConnectionInterface\u003A\u003AgetData\u0028\u0029",
-            "name": "getData",
-            "summary": "Read\u0020results\u0020from\u0020the\u0020database",
-            "url": "classes/App-Connections-Helpers-ConnectionInterface.html#method_getData"
+            "fqsen": "\\App\\Connections\\Helpers\\ConnectionInterface\u003A\u003AgetInstance\u0028\u0029",
+            "name": "getInstance",
+            "summary": "This\u0020is\u0020a\u0020singleton\u0020function\u0020to\u0020get\u0020the\u0020instance\u0020of\u0020the\u0020connection",
+            "url": "classes/App-Connections-Helpers-ConnectionInterface.html#method_getInstance"
         },                {
-            "fqsen": "\\App\\Connections\\PDO\\Connector",
-            "name": "Connector",
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector",
+            "name": "PDOConnector",
             "summary": "This\u0020is\u0020a\u0020connector\u0020class\u0020that\u0020connects\u0020to\u0020the\u0020MySQL\u0020Database\u0020using\nPDO.",
-            "url": "classes/App-Connections-PDO-Connector.html"
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html"
         },                {
-            "fqsen": "\\App\\Connections\\PDO\\Connector\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "",
-            "url": "classes/App-Connections-PDO-Connector.html#method___construct"
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#method___construct"
         },                {
-            "fqsen": "\\App\\Connections\\PDO\\Connector\u003A\u003Aconnect\u0028\u0029",
-            "name": "connect",
-            "summary": "Establishes\u0020connection\u0020to\u0020the\u0020database",
-            "url": "classes/App-Connections-PDO-Connector.html#method_connect"
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003Aisconnect\u0028\u0029",
+            "name": "isconnect",
+            "summary": "",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#method_isconnect"
         },                {
-            "fqsen": "\\App\\Connections\\PDO\\Connector\u003A\u003Adisconnect\u0028\u0029",
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003Adisconnect\u0028\u0029",
             "name": "disconnect",
             "summary": "Releases\u0020system\u0020resources\u0020from\u0020the\u0020database\u0020connection",
-            "url": "classes/App-Connections-PDO-Connector.html#method_disconnect"
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#method_disconnect"
         },                {
-            "fqsen": "\\App\\Connections\\PDO\\Connector\u003A\u003AgetData\u0028\u0029",
-            "name": "getData",
-            "summary": "Read\u0020results\u0020from\u0020the\u0020database",
-            "url": "classes/App-Connections-PDO-Connector.html#method_getData"
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003AgetInstance\u0028\u0029",
+            "name": "getInstance",
+            "summary": "This\u0020is\u0020a\u0020singleton\u0020function\u0020to\u0020get\u0020the\u0020instance\u0020of\u0020the\u0020connection",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#method_getInstance"
+        },                {
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003AgetConnection\u0028\u0029",
+            "name": "getConnection",
+            "summary": "",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#method_getConnection"
+        },                {
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003A__clone\u0028\u0029",
+            "name": "__clone",
+            "summary": "",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#method___clone"
+        },                {
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003A\u0024instance",
+            "name": "instance",
+            "summary": "",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#property_instance"
+        },                {
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003A\u0024con",
+            "name": "con",
+            "summary": "",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#property_con"
+        },                {
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003A\u0024host",
+            "name": "host",
+            "summary": "",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#property_host"
+        },                {
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003A\u0024database",
+            "name": "database",
+            "summary": "",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#property_database"
+        },                {
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003A\u0024username",
+            "name": "username",
+            "summary": "",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#property_username"
+        },                {
+            "fqsen": "\\App\\Connections\\PDOConnection\\PDOConnector\u003A\u003A\u0024password",
+            "name": "password",
+            "summary": "",
+            "url": "classes/App-Connections-PDOConnection-PDOConnector.html#property_password"
         },                {
             "fqsen": "\\",
             "name": "\\",
@@ -266,10 +301,10 @@ Search.appendIndex(
             "summary": "",
             "url": "namespaces/app.html"
         },                {
-            "fqsen": "\\App\\Connections\\PDO",
-            "name": "PDO",
+            "fqsen": "\\App\\Connections\\PDOConnection",
+            "name": "PDOConnection",
             "summary": "",
-            "url": "namespaces/app-connections-pdo.html"
+            "url": "namespaces/app-connections-pdoconnection.html"
         },                {
             "fqsen": "\\App\\Humans\\Helpers",
             "name": "Helpers",
