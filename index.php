@@ -7,4 +7,12 @@ use App\Connections\PDOConnection\PDOConnector;
 $f = new Faculty();
 echo $f->lectures();
 
-$con = PDOConnector::getInstance();
+$conn = PDOConnector::getInstance();
+$con = $conn->getConnection();
+$rs = $con->prepare("select * from students limit 10");
+$rs->execute();
+$rm = $rs->fetchAll(PDO::FETCH_ASSOC);
+
+foreach ($rm as $r) {
+    echo $r['indexnumber'] . PHP_EOL;
+}

@@ -11,7 +11,7 @@ use App\Connections\Helpers\ConnectionInterface;
  * This is a connector class that connects to the MySQL Database using
  * PDO.
  */
-class PDOConnector implements ConnectionInterface
+class PDOConnector  implements ConnectionInterface
 {
     private static $instance = null;
     private static $con = null;
@@ -26,6 +26,7 @@ class PDOConnector implements ConnectionInterface
             /**
              * Set connection
              */
+           
             self::$con = new PDO("mysql:host=" . self::$host . ";dbname=" . self::$database, self::$username, self::$password);
 
             // Set PDO Error mode to Exception
@@ -49,7 +50,7 @@ class PDOConnector implements ConnectionInterface
     public static function getInstance()
     {
         if (self::$instance == null) {
-            return self::$instance = new PDOConnector(self::$host, self::$database, self::$username, self::$password);
+            self::$instance = new PDOConnector(self::$host, self::$database, self::$username, self::$password);
         }
         return self::$instance;
     }
